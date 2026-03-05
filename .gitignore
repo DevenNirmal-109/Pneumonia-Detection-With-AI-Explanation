@@ -1,0 +1,22 @@
+# dataset
+Dataset/
+Images Dataset/
+data/
+images/
+
+# models
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# jupyter
+.ipynb_checkpoints
+
+# python
+__pycache__/
+*.pyc
+
+# env
+venv/
+env/
